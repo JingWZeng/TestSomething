@@ -1,0 +1,14 @@
+{
+  "name": "@jecn/diagram-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "index.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jecn/diagram-core": "workspace:^1.0.0"
+  }
+}
